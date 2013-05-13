@@ -61,11 +61,7 @@
             <ul class="nav nav-list">
               <li class="nav-header">Sidebar</li>
               <li><a href="eventos.php">Eventos</a></li>
-<<<<<<< HEAD
-              <li><a href="#">Notícias</a></li>
-=======
               <li><a href="noticias.php">Notícias</a></li>
->>>>>>> dec9603106c23096dcdfeff477374ede316f7466
             </ul>
           </div><!--/.well -->
         </div><!--/span-->
