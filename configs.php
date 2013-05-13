@@ -4,6 +4,7 @@
 	=============================================*/
 	
 	define(HOST, 'localhost');
+	define(DB, 'd3mo');
 	define(USER, 'root');
 	define(PASS, '');
 	define(DB, 'd3mo');
